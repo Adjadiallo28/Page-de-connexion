@@ -1,0 +1,40 @@
+body
+{background-color:#A52A2A ;
+
+} 
+
+center {
+    margin:0 auto;
+
+border:solid 80px
+color rgb(255, 0, 55);
+
+}
+
+fieldset{
+    position: relative;
+    top: 80px;
+    right: 70px;
+    margin-left: 600px;
+    margin-right: 400px;
+    align-content: center;
+    padding: 35px;
+}
+
+h1{
+    font-size: medium;
+    text-align: center;
+    position: relative;
+    top: 80px;
+}
+.button{
+    display: flex;
+}
+
+label{
+    color: greenyellow;
+}
+
+button:hover{
+    color: blue;
+}
